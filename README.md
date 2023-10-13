@@ -3,4 +3,4 @@ Hi, This repo is dedicated for helping to resolve manual task of various test da
 
 
 ## Random Name Generator
-This has python code for generating random firstname, lastname, ender, date of births etc.
+This has python code for generating random firstname, lastname, gender, date of births etc.
